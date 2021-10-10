@@ -1,0 +1,6 @@
+framework module Pods_ParseTutorial_ParseTutorialUITests {
+  umbrella header "Pods-ParseTutorial-ParseTutorialUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
